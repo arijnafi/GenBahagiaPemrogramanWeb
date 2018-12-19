@@ -1,0 +1,15 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+/*	background-color: #F08619;*/
+	/*border-style: solid;*/
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #F08619;
+	/*border-style: solid;*/
+}
